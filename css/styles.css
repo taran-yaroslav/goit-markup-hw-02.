@@ -10,7 +10,7 @@
 	--color-footers-link: rgba(255, 255, 255, 0.6);}
 
  /* спільне */
- .body {
+ body {
 	background-color: var(--primary-bg-color);
 	color: var(--color-main-text);
 	font-family: Roboto, sans-serif;
